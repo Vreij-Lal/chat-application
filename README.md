@@ -12,8 +12,9 @@ Chatty is a full stack online chat application </br>
 :heavy_check_mark: online chatting </br>
 :heavy_check_mark:chat history saved in database</br>
 
-## Technologies: 
+
 <img src="https://github.com/Vreij-Lal/chat-application/blob/main/sign%20up.png" width = '500' align = "right"/>
+## Technologies: 
 |Backend | Frontend |
 | --- | --- |
 | node.js | react.js |
