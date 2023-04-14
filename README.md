@@ -2,13 +2,12 @@
 
 ### Title: "Chatty" 
 
-<img src="https://github.com/Vreij-Lal/chat-application/blob/main/homepage.png" width = '500' align = "right"/> </br>
+<img src="https://github.com/Vreij-Lal/chat-application/blob/main/homepage.png" width = '500' align = "right"/>
 
 ### Description:
 Chatty is a full stack online chat application </br>
 
-### Features:</br>
-<img src="https://github.com/Vreij-Lal/chat-application/blob/main/sign%20up.png" width = '500' align = "right"/>
+### Features:
 :heavy_check_mark: sign up and login system </br>
 :heavy_check_mark: online chatting </br>
 :heavy_check_mark:chat history saved in database</br>
@@ -18,6 +17,7 @@ Chatty is a full stack online chat application </br>
 ## Technologies: 
 |Backend | Frontend |
 | --- | --- |
+<img src="https://github.com/Vreij-Lal/chat-application/blob/main/sign%20up.png" width = '500' align = "right"/>
 | node.js | react.js |
 | express.js |sass|
 | mongoDB | socket.io-client| 
