@@ -2,10 +2,12 @@
 
 ### Title: "Chatty" 
 
+<img src="https://github.com/Vreij-Lal/chat-application/blob/main/homepage.png" width = '500' align = "right"/>
+
 ### Description:
 Chatty is a full stack online chat application </br>
+<img src="https://github.com/Vreij-Lal/chat-application/blob/main/sign%20up.png" width = '500' align = "right"/>
 
-<img src="https://github.com/Vreij-Lal/chat-application/blob/main/homepage.png" width = '500' align = "right"/>
 
 ### Features:
 :heavy_check_mark: sign up and login system </br>
