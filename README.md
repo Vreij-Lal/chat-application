@@ -6,8 +6,9 @@
 Chatty is a full stack online chat application </br>
 
 ### Features:
-:heavy_check_mark: online chatting </br>
 :heavy_check_mark: user sign up and login system </br>
+:heavy_check_mark: online chatting </br>
+:heavy_check_mark:chat history saved in database</br>
 
 ## Technologies: 
 
