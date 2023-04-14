@@ -5,6 +5,8 @@
 ### Description:
 Chatty is a full stack online chat application </br>
 
+<img src="https://github.com/Vreij-Lal/chat-application/blob/main/homepage.png" width = '500' align = "right"/>
+
 ### Features:
 :heavy_check_mark: sign up and login system </br>
 :heavy_check_mark: online chatting </br>
