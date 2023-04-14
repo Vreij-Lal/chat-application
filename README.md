@@ -17,13 +17,14 @@ Chatty is a full stack online chat application </br>
 ## Technologies: 
 |Backend | Frontend |
 | --- | --- |
-<img src="https://github.com/Vreij-Lal/chat-application/blob/main/sign%20up.png" width = '500' align = "right"/>
 | node.js | react.js |
 | express.js |sass|
 | mongoDB | socket.io-client| 
 |mongoose| |
 |bcrypt||
 |socket-io||
+<img src="https://github.com/Vreij-Lal/chat-application/blob/main/sign%20up.png" width = '500' align = "right"/>
+
 
 
 
