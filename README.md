@@ -44,4 +44,4 @@ Make sure you have own credentials in server/.env for:
 ### Important: Not responsive
 
 ### Note: 
-The project is an MVP created in one week. I will continue working on it in the near future, by adding additional features such as using emoticons when sending a message , deleting sent messages, responsive design and more.
+The project is a greenfield project created in one week. I will continue working on it in the near future, by adding additional features such as using emoticons when sending a message , deleting sent messages, responsive design and more.
