@@ -6,15 +6,14 @@
 
 ### Description:
 Chatty is a full stack online chat application </br>
-<img src="https://github.com/Vreij-Lal/chat-application/blob/main/sign%20up.png" width = '500' align = "right"/>
-
-
 
 ### Features:
 :heavy_check_mark: sign up and login system </br>
 :heavy_check_mark: online chatting </br>
 :heavy_check_mark:chat history saved in database</br>
 
+
+<img src="https://github.com/Vreij-Lal/chat-application/blob/main/sign%20up.png" width = '500' align = "right"/>
 
 ## Technologies: 
 
@@ -28,7 +27,7 @@ Chatty is a full stack online chat application </br>
 |socket-io||
 
 ## Usage: 
-<img src="https://github.com/Vreij-Lal/chat-application/blob/main/login.png" width = '500' align = "right"/>
+
 ### Demo:
 - Watch video [here](https://www.youtube.com/watch?v=yZRbSfVzjtQ&t=5s)
 
