@@ -1,16 +1,47 @@
+# Online chat application:shopping:
 
-# Chatty Chat Application
+### Title: "Chatty" 
 
-- Chatty is a full stack chat application.
+### Description:
+Chatty is a full stack online chat application </br>
 
+### Features:
+:heavy_check_mark: online chatting </br>
+:heavy_check_mark: user sign up and login system </br>
 
-# Overview:
-- Using chatty simply by creating an account or login and join the chat with all the chatty users.
+## Technologies: 
 
-- Chatty was developed using the MERN stack, React was chosen to be used for frontend for updating the virtual dom and enhancing the UX of the client. Mongodb was used as a database to provide a cost effective NO-SQL database. Node.js was used for the server, since it provides run-time environment for javascript, to create the server, additionally Express.js was used as a layer built on the top of the Node js that helps manage servers and routes.Socket.io was also used for the live update and display of the messages.
+|Backend | Frontend |
+| --- | --- |
+| node.js | react.js |
+| express.js |sass|
+| mongoDB | socket.io-client| 
+|mongoose| |
+|bcrypt||
+|socket-io||
 
-- There are features that are to be added on chatty in the future such as using emoticons when sending a message , deleting send messages, responsive design and many more!
+## Usage: 
 
+### Demo:
+- Watch video [here](https://www.youtube.com/watch?v=yZRbSfVzjtQ&t=5s)
 
-# Installation:
-- Using and installing chatty is quite simple, all that is required is to install all the dependencies (via NPM) of the server and client folders.(each folder has a separate package.json).
+### User usage:
+- after you have created an account, you will have access to your chat area, and can chat with the others.
+
+## Development:
+
+### Running application:
+Make sure you have own credentials in server/.env for:
+
+- mondoDB_Api 
+
+1. Clone the repo or download it
+2. Open your terminal on serverfolder and run command "npm install"
+3. Open your terminal on client folder and run command "npm install"
+4. Having terminal open on server run command "npm start"
+5. Having terminal open on client run command "npm start"
+
+### Important: Not responsive
+
+### Note: 
+The project is an MVP created in one week. I will continue working on it in the near future, by adding additional features such as using emoticons when sending a message , deleting sent messages, responsive design and more.
