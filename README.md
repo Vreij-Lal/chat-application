@@ -1,4 +1,4 @@
-# Online chat application:shopping:
+# Online chat application
 
 ### Title: "Chatty" 
 
